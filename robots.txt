@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /notice.json
+Disallow: /notice-dev.json
+Disallow: /station.json
